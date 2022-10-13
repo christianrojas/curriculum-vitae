@@ -54,7 +54,7 @@ Responsibilities:
 #### **Ccoins Inc.**
 
 > Senior Consultant
-> (_Feb 2017 - Jul 2022 · 6 mos_) Contract
+> (_Feb 2022 - Jul 2022 · 6 mos_) Contract
 
 > Senior Software Engineer - Technical leader
 > (_Jun 2017 - Jan 2022 · 4 yrs 8 mos_) Contract
