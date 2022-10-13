@@ -28,6 +28,7 @@
 - Team and project management tools `Jira`, `Trello`, `ClickUp`, `Basecamp`, `Slack`, `Notion`, `Github`, `Bitbucket`, `Gitlab`, `Confluence`.
 - Infrastructure providers `Heroku` and `Heroku Pipelines`, `DigitalOcean`, `Fly.io`, `AWS`(S3, EC2, Route53, IAM)
 - SCM `Git`, `Subversion`
+- Transactional notification platforms `Twilio`, `Postmark`, `Sendgrid`
 
 ### 💪 Work Experience
 
