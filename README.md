@@ -156,8 +156,8 @@ Tools: `Adobe Photoshop`, `Adobe Illustrator`, `Adobe InDesign`, `Acrobat`
 
 ---
 
-- **English** (Professional working proficiency)
-- **Spanish** (Native or bilingual proficiency)
+- **English** Professional working proficiency (B2)
+- **Spanish** Native or bilingual proficiency
 
 ### Personal information and References
 
