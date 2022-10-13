@@ -2,7 +2,8 @@
 
 ## Software Engineer
 
----
+- Linkedin: https://www.linkedin.com/in/christianrojasgar/
+- Github: https://github.com/christianrojas
 
 ### Summary
 
