@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Christian Rojas
 
+## Software Engineer
+
+---
+
 ### Summary
 
 - Ten (10) years of experience in `software design`, `development`, `support` and `technical leadership` using `Ruby`, `Ruby on Rails` framework, `HTML`, `CSS`, `Javascript`, `Web Services`, `SQL`, `Web APIs`, `Background Jobs`, `Queues`, `Crons`, `Services`, `Serializers`, and command line interfaces with `Thor`.
