@@ -7,7 +7,7 @@
 
 ### Summary
 
-- Ten (10) years of experience in `software design`, `development`, `support` and `technical leadership` using `Ruby`, `Ruby on Rails` framework, `HTML`, `CSS`, `Javascript`, `Web Services`, `SQL`, `Web APIs`, `Background Jobs`, `Queues`, `Crons`, `Services`, `Serializers`, and command line interfaces with `Thor`.
+- Ten (10) years of experience in `software design`, `development`, `support` and `technical leadership` using `Ruby`, `Ruby on Rails` framework, `HTML`, `CSS`, `Javascript`, `Web Services`, `SQL`, `Web APIs`, `Background Jobs`, `Queues`, `Crons`, `Services`, `Decorator`, `Presenters`, `View Components`, `Serializers`, and command line interfaces with `Thor`.
 - Competent in various Object Relational Mapping (`ORM`) technologies such as `Active Record` or `Sequel` DSL.
 - Proficient about `Blockchain` technologies and `crypto-currencies` like `Bitcoin`, `Ethereum`, `Dash`(master nodes), Stable-coins(`Dai`, `USDT`, `USDC`).
 - Proficient in analytical, organizational, and problem solving skills
@@ -20,14 +20,14 @@
 - Languages `Ruby`, `HTML`, `CSS`, `Javascript`, `JSON`, `SQL`.
 - Frameworks `Ruby on Rails`, `Sinatra`, `Padrino`, `Grape`.
 - Libraries and technologies `BootstrapCSS`, `Foundation`, `Chart.js`, `ReactJS`, `JQuery`, `VueJS`, `AngularJS`, `StimulusJS`, `TailwindCSS`, `Hotwire`, `Sidekiq`, `RabbitMQ`.
-- Databases `PostgreSQL`, `MySQL`, `MariaDB`, `MongoDB`.
+- Databases `PostgreSQL`, `MySQL`, `MariaDB`, `MongoDB`, `Redis`.
 - Tools `VS Code`, `Terminal`, `Postman`, `Ngrok`, `Google Chrome (Dev tools)`, `vim`, `tmux`, `Sizzy`, `Figma`, `Sketch`.
 - Web servers `Puma`, `Unicorn`.
 - Operating Systems `MacOS`, `MacOS Server`, `Ubuntu`, `Fedora`.
 - Methodologies `Scrum`, `Kanban`, `ShapeUp`.
 - Team and project management tools `Jira`, `Trello`, `ClickUp`, `Basecamp`, `Slack`, `Notion`, `Github`, `Bitbucket`, `Gitlab`, `Confluence`.
 - Infrastructure providers `Heroku` and `Heroku Pipelines`, `DigitalOcean`, `Fly.io`, `AWS`(S3, EC2, Route53, IAM)
-- SVC Git, Subversion
+- SCM `Git`, `Subversion`
 
 ### 💪 Work Experience
 
@@ -165,5 +165,7 @@ Tools: `Adobe Photoshop`, `Adobe Illustrator`, `Adobe InDesign`, `Acrobat`
 - **Spanish** Native or bilingual proficiency
 
 ### Personal information and References
+
+---
 
 _Available upon request_
