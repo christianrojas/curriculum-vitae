@@ -29,6 +29,7 @@
 - Infrastructure providers `Heroku` and `Heroku Pipelines`, `DigitalOcean`, `Fly.io`, `AWS`(S3, EC2, Route53, IAM)
 - SCM `Git`, `Subversion`
 - Transactional notification platforms `Twilio`, `Postmark`, `Sendgrid`
+- BaaS (Blockchain as a service) `BitGo`, `BitGo Prime`
 
 ### 💪 Work Experience
 
