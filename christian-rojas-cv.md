@@ -1,51 +1,88 @@
-# 👋 Hi, I'm Christian Rojas
+# `~$ ruby christian_rojas_cv.rb`
 
-## Software Engineer
+## 👋 Hi, I'm Christian Rojas
+[Linkedin](https://www.linkedin.com/in/christian-rojas-garnica/) | [Github](https://github.com/christianrojas) | [Twitter \(X\)](https://twitter.com/christianrojas)
 
-- Linkedin: https://www.linkedin.com/in/christianrojasgar/
-- Github: https://github.com/christianrojas
+I'm a **software engineer** whose passion for coding ignited in 2008. I firmly believe that **dedication** and **clarity** in coding are not just professional traits but the **foundation** for crafting elegant and game-changing solutions that impact **how we live and work**.
 
-### Summary
+I’m passionate about DDD(Domain Driven Design), OOD(Object Oriented Design), nuances of language and idioms, and how we communicate.
 
-- Ten (10) years of experience in `software design`, `development`, `support` and `technical leadership` using `Ruby`, `Ruby on Rails` framework, `HTML`, `CSS`, `Javascript`, `Web Services`, `SQL`, `Web APIs`, `Background Jobs`, `Queues`, `Crons`, `Services`, `Decorator`, `Presenters`, `View Components`, `Serializers`, and command line interfaces with `Thor`.
-- Competent in various Object Relational Mapping (`ORM`) technologies such as `Active Record` or `Sequel` DSL.
-- Proficient about `Blockchain` technologies and `crypto-currencies` like `Bitcoin`, `Ethereum`, `Dash`(master nodes), Stable-coins(`Dai`, `USDT`, `USDC`).
-- Proficient in analytical, organizational, and problem solving skills
-- I'm able to be employed in a remote position.
+> You can really get to know a Software Engineer by how they name things in their code.
 
-### ⚙️ Technical skills
+### 📚 Key Titles on My Bookshelf
+- Domain-Driven Design by Eric Evans.
+- Practical Object-Oriented Design by Sandi Metz.
+- Naming Things by Tom Benner.
+- Data & Reality by William Kent
 
----
+### ⚙️ Technology Stack and Skills
+Below is a list of the key technologies I’ve adopted in recent years. As the landscape evolves rapidly, some tools from my earlier 16 years of experience may no longer be as relevant today.
 
-- Languages `Ruby`, `HTML`, `CSS`, `Javascript`, `JSON`, `SQL`.
-- Frameworks `Ruby on Rails`, `Sinatra`, `Padrino`, `Grape`.
-- Libraries and technologies `BootstrapCSS`, `Foundation`, `Chart.js`, `ReactJS`, `JQuery`, `VueJS`, `AngularJS`, `StimulusJS`, `TailwindCSS`, `Hotwire`, `Sidekiq`, `RabbitMQ`.
-- Databases `PostgreSQL`, `MySQL`, `MariaDB`, `MongoDB`, `Redis`.
-- Tools `VS Code`, `Terminal`, `Postman`, `Ngrok`, `Google Chrome (Dev tools)`, `vim`, `tmux`, `Sizzy`, `Figma`, `Sketch`.
-- Web servers `Puma`, `Unicorn`.
-- Operating Systems `MacOS`, `MacOS Server`, `Ubuntu`, `Fedora`.
+- Languages: `Ruby`, `HTML`, `CSS`, `Javascript`, `SQL`, `NoSQL`.
+- Web frameworks: `Ruby on Rails`, `Sinatra`.
+- JS frameworks: `Hotwire`, `StimulusJS`, `StimulusReflex`, `Vue.js`.
+- CSS frameworks: `TailwindCSS`, `BootstrapCSS`, `Foundation`.
+- Views frameworks: `ViewComponents`.
+- Templating languages: `ERB`, `Haml`, `Slim`.
+- Jobs: `Resque`, `Sidekiq`, `Solid Queue`, `Solid Cache`.
+- Drivers: `PostgreSQL`, `Redis`, `MySQL`, `MariaDB`, `MongoDB`.
+- CI / CD: `Github Workflows`, `CircleCI`, `TravisCI`.
+- Testing: `Minitest`, `Rspec`, `Capybara`, `Factory Boy`.
+- Authentication: `From scratch`, `Devise`, `SSO`.
+- SSO services: `Auth0`.
+- Authorization: `Pundit`, `CanCanCan`.
+- Deployments: `Kamal (AWS/DigitalOcean)`.
+- Transactional, Broadcast, and Inbound services: `Twilio`, `Postmark`, `Sendgrid`.
+- Tools:  `Terminal`, `Postman`, `Ngrok`, `Web browsers (Dev tools)`,  `Figma`, `Sketch`.
 - Methodologies `Scrum`, `Kanban`, `ShapeUp`.
-- Team and project management tools `Jira`, `Trello`, `ClickUp`, `Basecamp`, `Slack`, `Notion`, `Github`, `Bitbucket`, `Gitlab`, `Confluence`.
-- Infrastructure providers `Heroku` and `Heroku Pipelines`, `DigitalOcean`, `Fly.io`, `AWS`(S3, EC2, Route53, IAM)
-- SCM `Git`, `Subversion`
-- Transactional notification platforms `Twilio`, `Postmark`, `Sendgrid`
-- BaaS (Blockchain as a service) `BitGo`, `BitGo Prime`
+- Project management tools: `Jira`, `Trello`, `ClickUp`,  `Asana`, `Basecamp`, `Notion`, `Confluence`, `Github Projects`.
+- Communication tools: `Slack`, `Campfire`, `Teams`, `Google Meet`, `HelpScout`.
+- Version control and collaboration: `Github`, `Bitbucket`, `Gitlab`.
+- Infrastructure providers `Heroku`, `DigitalOcean`, `Render`, `Fly.io`, `AWS(S3, EC2, Route53, IAM)`.
+- BaaS (Blockchain as a service) `BitGo`, `BitGo Prime`, `Fireblocks`.
+- Error tracking: `Sentry`, `AppSignal`.
+- Payments: `Stripe`, `MercadoLibre`.
 
 ### 💪 Work Experience
 
----
+**Welbyte** [Website](https://welbyte.com/)
+Client: [CuraLinc Healthcare](https://curalinc.com/)
+Transformative mental health care, fueled by connectivity.
 
-#### **IQVIA**
+> **Senior Software Engineer**
+> (_Jul 2023 - Present · 11 months_) Contract
+
+As a *Senior Software Engineer*, I led the development and maintenance of eight diverse applications utilizing `Ruby on Rails` and cutting-edge Rails technologies such as `Hotwire`, `StimulusJS`, `Solid Queue`, `Solid Cache`, and `Kamal` for deployments across Integration, Staging, and Production environments. Our team prioritizes excellent communication and adheres to `Domain-Driven Design (DDD)` principles to ensure simplicity and effectiveness in our app development process.
+
+**VAIRIX Software Development** - [Website](https://www.vairix.com/)
+Client: [Jetpack Workflow](https://jetpackworkflow.com/)
+Workflow and Project Management Software for Ambitious Firms.
+
+> **Senior Software Engineer**
+> (_Jul 2022 - Nov 2023 · 5 months_) Part-time contract.
+
+As a *Senior Software Engineer*, I build and maintain features for a `Ruby on Rails` application using technologies such as `ViewComponents`, `Hotwire`, `StimulusJS`, `StimulusReflex`, `Redis`, `Sidekiq`, and services like `Stripe`, `AWS`, and `Twilio`.
+
+**VAIRIX Software Development** - [Website](https://www.vairix.com/)
+Client: ACDev
+Mental health care solutions.
+
+> **Senior Software Engineer**
+> (_Feb 2023 - Jun 2023 · 5 months_) Full-time contract.
+
+As a Senior Software Engineer, I build and maintain features for two applications using `Ruby on Rails` using technologies such as `Hotwire`, `StimulusJS`, `Redis`, `Resque`, and services like `Postmark`, `AWS`, and `Twilio`.
+
+#### **IQVIA** - [Website](https://www.iqvia.com/)
+From clinical to commercial, deliver intelligence you can trust to streamline global operations and accelerate digital transformation.
 
 > Senior Software Engineer - Technical Lead
-> (_Feb 2022 - Oct 2022 · 9 mos_) Contract
+> (_Feb 2022 - Oct 2022 · 9 mos_) Full-time contract
 
-As a `Senior Software Engineer`, I spend 50% on coding and as a reviewer in every pull request in the codebase; the other 50%, I check and review new features.
+As a *Senior Software Engineer*, I spend 50% on coding and as a reviewer in every pull request in the codebase; the other 50%, I check and review new features.
 
-As a `Technical leader`, I help with assignations(using `Jira`), feature prioritization, scope valuations, and help developers if they have any stoppers in their assignations.
+As a *Technical leader*, I help with assignations(using `Jira`), feature prioritization, scope valuations, and help developers if they have any stoppers in their assignations.
 
 Responsibilities:
-
 - Create a new `ReactJS` application and setup the structure.
 - Migrate an EmberJS App to `ReactJS`.
 - Set up `Kubernetes` and `Docker`.
@@ -53,7 +90,8 @@ Responsibilities:
 - Migrate the EmberJS application to `ReactJS` and improve all required `Ruby on Rails` backend endpoints.
 - Create a knowledge base in confluence for the ReactJS components, structure, and Ruby on Rails backend endpoints.
 
-#### **Ccoins Inc.**
+#### **Ccoins Inc.** - [Website](https://ccoins.io/)
+Join the Most Advanced Cryptocurrency P2P. We're All-in-One **Multifunctional Cryptocurrency** Market
 
 > Senior Consultant
 > (_Feb 2022 - Jul 2022 · 6 mos_) Contract
@@ -63,18 +101,17 @@ Responsibilities:
 
 We created solutions that help users with almost zero technical skills interact with the `cryptocurrency` ecosystem.
 
-As a `Senior Software Engineer`, I spend 50% on coding and as a reviewer in every pull request in the codebase.
+As a *Senior Software Engineer*, I spend 50% on coding and as a reviewer in every pull request in the codebase.
 
 For the other 50%, I follow the progress in the current cycle and shape and write pitches for new features.
 
-As a `Technical leader`, I help with the team assignment for new features in the betting table(using `Basecamp`), and I help my team if they have any stoppers.
+As a *Technical leader*, I help with the team assignment for new features in the betting table(using `Basecamp`), and I help my team if they have any stoppers.
 
-As a `Senior Consultant`, I did the knowledge transfer and helped them evaluate the Roadmap.
+As a *Senior Consultant*, I did the knowledge transfer and helped them evaluate the Roadmap.
 
 I have experience with some top `Agile Methodologies` like `Scrum`, `Kanban`, `Scrumban`, and `ShapeUp`.
 
 Responsibilities:
-
 - I worked on `Ruby on Rails` development, `data modeling`, `architecture` implementations, `testing`.
 - I worked on the code style rules across codebases using `Rubocop`, `Brakeman`, and `Solargraph`.
 - I worked on `Bug tracking` and log system using `Sentry`, and `Datadog`.
@@ -107,7 +144,7 @@ We worked directly with clients, analyzing new products and features. I was part
 #### **Tango**
 
 > Software engineer
-> (_Jun 2016 - Aug 2016 · 3 mos_) Contract
+> (_Jun 2016 - Aug 2016 · 3 mos_) Contractor
 
 At TangoSource, I did my first step in `Scrum` and `Agile cycles`; I was assigned to a `Ruby on Rails` monolith legacy application. We had to improve the performance, expand the `testing coverage`, complete maintenance tasks, and add new features simultaneously.
 
@@ -121,7 +158,7 @@ We worked directly with clients, analyzing new products and features. I was part
 #### **Tango**
 
 > Software engineer
-> (May 2014 - Jan 2015 · 9 mos) Contract
+> (May 2014 - Jan 2015 · 9 mos) Contractor
 
 At TangoSource, I did my first step in `Scrum` and `Agile cycles`; I was assigned to a `Ruby on Rails` monolith legacy application. We had to improve the performance, expand the `testing coverage`, complete maintenance tasks, and add new features simultaneously.
 
@@ -149,25 +186,18 @@ My day-to-day job includes synchronizing the assets with the central servers, ch
 
 Tools: `Adobe Photoshop`, `Adobe Illustrator`, `Adobe InDesign`, `Acrobat`
 
-### 📚 Education
+### 🎓 Education
 
----
+- Elementary School - Date (Dec 1993) **María Reina School**
+- High School - Date (Dec 2000) **Salesiano San Juan Bosco School**
+- Computer Science - Date (Dec 2010) **Universidad Simón Bolívar**
 
-> Elementary School - Date (Dec 1993) **María Reina School**
+### 🗣️ Languages
 
-> High School - Date (Dec 2000) **Salesiano San Juan Bosco School**
-
-> Computer Science - Date (Dec 2010) **Universidad Simón Bolívar**
-
-### 🤝 Languages
-
----
-
-- **English** Professional working proficiency (B2)
+- **English** Professional working proficiency (C1)
 - **Spanish** Native or bilingual proficiency
 
-### Personal information and References
-
----
-
+### ✉️ Personal Information and References
 _Available upon request_
+
+#Personal
